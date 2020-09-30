@@ -48,7 +48,7 @@ int main() {
 	}
 	scanf("%d",&k);
 	heapsort(a,n);
-	printf("%d\n",a[k])
+	printf("%d\n",a[k]);
 	}
 	return 0;
 }
